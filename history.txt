@@ -1,0 +1,5 @@
+ESX Frisch installiert
+ESX hat neue Systeme
+
+ox_lib & ox_inventory installiert
+dessen SQL's in die Datenbank geschrieben (kann auf der offizielen Website eingesehen werden)
