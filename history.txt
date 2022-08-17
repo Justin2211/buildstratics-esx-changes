@@ -8,8 +8,7 @@ dessen SQL's in die Datenbank geschrieben (kann auf der offizielen Website einge
 NativeUILua_Reloaded installiert.
 myCarMileage installiert und SQL ausgeführt:
 {
-ALTER TABLE `owned_vehicles` 
-ADD COLUMN `milage` DOUBLE NOT NULL DEFAULT 0;
+ -> siehe myCarMileage.sql
 }
 myGarage installiert und SQL ausgeführt:
 {
